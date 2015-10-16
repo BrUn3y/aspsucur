@@ -1,0 +1,90 @@
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\PuntoDeVenta.dll.config
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\PuntoDeVenta.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\PuntoDeVenta.pdb
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\Antlr3.Runtime.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\EntityFramework.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\Microsoft.Web.Infrastructure.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\Newtonsoft.Json.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Mvc.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Optimization.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Providers.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Razor.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.Deployment.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.Razor.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\WebGrease.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\EntityFramework.xml
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\Newtonsoft.Json.xml
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Mvc.xml
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Razor.xml
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.xml
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.Deployment.xml
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.Razor.xml
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.dll
+c:\users\oseguera\documents\visual studio 2013\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\PuntoDeVenta.dll.config
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\PuntoDeVenta.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\PuntoDeVenta.pdb
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Antlr3.Runtime.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\EntityFramework.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Newtonsoft.Json.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Net.Http.Formatting.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Http.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Http.WebHost.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Mvc.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Optimization.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Providers.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Razor.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.Razor.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\WebGrease.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\EntityFramework.xml
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Newtonsoft.Json.xml
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Net.Http.Formatting.xml
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Http.xml
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Http.WebHost.xml
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Mvc.xml
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Razor.xml
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.xml
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.Razor.xml
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.dll
+C:\Users\EdgarBruney\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\PuntoDeVenta.dll.config
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\PuntoDeVenta.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\PuntoDeVenta.pdb
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\Antlr3.Runtime.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\EntityFramework.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\Newtonsoft.Json.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Net.Http.Formatting.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Http.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Http.WebHost.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Mvc.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Optimization.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Providers.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Razor.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.Razor.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\WebGrease.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\EntityFramework.xml
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\Newtonsoft.Json.xml
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Net.Http.Formatting.xml
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Http.xml
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Http.WebHost.xml
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Mvc.xml
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.Razor.xml
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.xml
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\bin\System.Web.WebPages.Razor.xml
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.dll
+C:\Users\EdgarBruney\Desktop\Curso Apn.net\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb

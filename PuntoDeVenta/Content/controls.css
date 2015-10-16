@@ -1,0 +1,80 @@
+﻿@font-face {
+    font-family:"Roboto";
+    src: url("Roboto-Regular.ttf") /* TTF file for CSS3 browsers */
+}
+
+body{
+    font-family: Roboto,sans-serif;
+}
+.edittext{
+    position: relative;
+    margin: 16px auto 0 auto;
+    width: 100%;
+}
+.edittext > .input{
+    font-family: Roboto,sans-serif;
+    font-size: 16px;
+    padding: 8px 0;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    display: block;
+    width: 100%;
+    color:black;
+    border: none;
+    border-radius: 0;
+    border-bottom:1px solid #636363;
+    outline:0; 
+}
+.edittext > .input:focus{
+    border-bottom:1px solid transparent;
+    
+}
+
+.edittext > label{
+    position: absolute;
+    bottom: 8px;
+    color: #999;
+    pointer-events: none;
+    transition: all 0.2s ease;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    
+}
+.edittext > label.up{
+    transform: translateY(-20px) scale(0.75);
+    -ms-transform: translateY(-20px) scale(0.75);
+    -webkit-transform: translateY(-24px) scale(0.75);
+    -moz-transform: translateY(-24px) scale(0.75);
+    color: #2196F3;
+    -webkit-transform-origin: 0% 50%;
+    -moz-transform-origin: 0% 50%;
+    -ms-transform-origin:0% 50%;
+}
+
+.edittext > .bar{
+    position: relative;
+    display: block;
+    width: 100%;
+}
+.edittext >.bar:before, .edittext >.bar:after{
+    content: "";
+    height: 2px;
+    width: 0;
+    bottom: 0;
+    position: absolute;
+    background:  #2196F3; 
+    webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+.edittext > .bar:before{
+    left: 50%;
+}
+.edittext > .bar:after{
+    right:50%;
+}
+
+.edittext >input:focus ~ .bar:before,.edittext >input:focus ~ .bar:after{
+    width: 50%;
+}
